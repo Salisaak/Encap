@@ -1,5 +1,10 @@
 package Encap;
 
+
+
+    //Declare the variables of a class as private.
+
+   // Provide public setter and getter methods to modify and view the variables values.
 public class LearningEncap {
         private String user;
         private String idNum;
