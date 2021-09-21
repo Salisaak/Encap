@@ -22,7 +22,7 @@ public class LearningEncap {
         public void setAge( int newAge) {
             age = newAge;
         }
-        public void setName(String userName) {
+        public void setuserName(String userName) {
             user = userName;
         }
         public void setIdNum( String newId) {
@@ -30,7 +30,7 @@ public class LearningEncap {
         }
     public static void main(String args[]) {
         LearningEncap encap = new LearningEncap();
-        encap.setName("Yjol D.");
+        encap.setuserName("Yjol D.");
         encap.setAge(69);
         encap.setIdNum("173842");
 
